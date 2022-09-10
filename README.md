@@ -6,8 +6,11 @@
 
 * Mudah Di Customized
 - Open Source
-* Automatic Routing dan Pengunaannya Sama seperti React Function 
-- Support Untuk TypeScript (**WIP**)
+* Automatic Routing
 
+- Upcoming: 
+
+* Support TypeScript
+* Enchaned Automatic Routing
 
 **WIP // Still On Development**
