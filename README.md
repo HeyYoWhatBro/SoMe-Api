@@ -1,14 +1,13 @@
 # SoMe Api 
 
->**SoMe Api** Adalah boilplate yang reliable untuk **Express**
+>**SoMe Api** Adalah boilplate untuk **Express**
+---
+- Feature: 
 
-* Feature: 
-
-Mudah Di Customized
-Open Source
-Automatic Routing dan Pengunaannya Sama seperti React Function 
-Support Untuk TypeScript (**WIP**)
-
+* Mudah Di Customized
+- Open Source
+* Automatic Routing dan Pengunaannya Sama seperti React Function 
+- Support Untuk TypeScript (**WIP**)
 
 
 **WIP // Still On Development**
